@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "jonathan_java-20221017T064228Z-001_531afa9a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "jonathan_java-20221017T064228Z-001_531afa9a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Clave",
+            "request": "launch",
+            "mainClass": "Clave",
+            "projectName": "jonathan_java-20221017T064228Z-001_531afa9a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio_Edad",
+            "request": "launch",
+            "mainClass": "Ejercicio_Edad",
+            "projectName": "jonathan_java-20221017T064228Z-001_531afa9a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio_numeros",
+            "request": "launch",
+            "mainClass": "Ejercicio_numeros",
+            "projectName": "jonathan_java-20221017T064228Z-001_531afa9a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto1",
+            "request": "launch",
+            "mainClass": "Reto1",
+            "projectName": "jonathan_java-20221017T064228Z-001_531afa9a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto2",
+            "request": "launch",
+            "mainClass": "Reto2",
+            "projectName": "jonathan_java-20221017T064228Z-001_531afa9a"
+        }
+    ]
+}
