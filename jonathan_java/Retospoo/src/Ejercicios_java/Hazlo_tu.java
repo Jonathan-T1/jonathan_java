@@ -3,8 +3,8 @@ package Ejercicios_java;
 import java.util.Scanner;
 
 public class Hazlo_tu {
-    private static double nota;
 
+    
     public static void main(String[] args) {
         Scanner leer=new Scanner(System.in);
         double nota=0.0,promedio,total=0;

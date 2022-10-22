@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Reto4",
+            "request": "launch",
+            "mainClass": "Retos_java.Reto4",
+            "projectName": "jonathan_java-main_cbb72afc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto5",
+            "request": "launch",
+            "mainClass": "Retos_java.Reto5",
+            "projectName": "jonathan_java-main_cbb72afc"
+        },
+        {
+            "type": "java",
             "name": "Launch Hazlo_tu",
             "request": "launch",
             "mainClass": "Ejercicios_java.Hazlo_tu",
