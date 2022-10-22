@@ -14,7 +14,7 @@ public class Reto5 {
         apellido=leer.next();
 
         int length = nombre.length();
-        System.out.println("La longitud de su nombre es: " + length);
+        System.out.println("La longitud de su nombre es es: " + length);
          
         System.out.println(nombre.toUpperCase());
         System.out.println(apellido.toLowerCase());
