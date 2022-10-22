@@ -5,34 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "java",
-            "name": "Launch Reto4",
-            "request": "launch",
-            "mainClass": "Retos_java.Reto4",
-            "projectName": "jonathan_java-main_cbb72afc"
-        },
-        {
-            "type": "java",
-            "name": "Launch Reto5",
-            "request": "launch",
-            "mainClass": "Retos_java.Reto5",
-            "projectName": "jonathan_java-main_cbb72afc"
-        },
-        {
-            "type": "java",
-            "name": "Launch Hazlo_tu",
-            "request": "launch",
-            "mainClass": "Ejercicios_java.Hazlo_tu",
-            "projectName": "jonathan_java-main_cbb72afc"
-        },
-        {
-            "type": "java",
-            "name": "Launch Ejercicio1",
-            "request": "launch",
-            "mainClass": "Ejercicio1",
-            "projectName": "jonathan_java-main_cbb72afc"
-        },
-        {
             "name": "Attach to Chrome",
             "port": 9222,
             "request": "attach",
